@@ -6,7 +6,6 @@ import os
 import json
 import requests
 import time
-from random import randint
 
 def parse_page(url, annonces):
     #OUVERTURE DE LA PAGE
@@ -14,6 +13,7 @@ def parse_page(url, annonces):
     session = requests.Session()
     session.max_redirects = 20
     seloger_html = requests.get(url, headers=headers)
+    time.sleep(1)
     soup = BeautifulSoup(seloger_html.text,'html.parser')
     
     #Parse les informations sur les appartements sous format JSON
@@ -45,9 +45,12 @@ def parse_page(url, annonces):
             url_detail = article.find(lambda tag: tag.name == 'a' and tag.has_attr('href'))['href'].encode('utf8')
             infos.append(url_detail)
             
-            #Metro et meuble
+            #METRO ET MEUBLE
             infos = parse_page_detail(url_detail, infos)
-            time.sleep(randint(1,3))
+            
+            #CONTACT
+            contact = article.find(lambda tag: tag.name == 'a' and tag.has_attr('data-phone'))['data-phone'].encode('utf8')
+            infos.append(contact)
             
             annonces.append(infos)
         except KeyError:
@@ -59,6 +62,7 @@ def parse_page_detail(url, infos):
     session = requests.Session()
     session.max_redirects = 20
     seloger_html = requests.get(url, headers=headers)
+    time.sleep(1)
     soup = BeautifulSoup(seloger_html.text,'html.parser')
     try:
         desc = soup.find(attrs={'name':'description'}).get('content')
@@ -87,6 +91,7 @@ def main():
     session = requests.Session()
     session.max_redirects = 20
     seloger_html = requests.get(url, headers=headers)
+    time.sleep(1)
     soup = BeautifulSoup(seloger_html.text,'html.parser')
     
     #Parse les informations sur les appartements sous format JSON
@@ -120,7 +125,7 @@ def main():
             print()
             annonces_tot = parse_page(url, [])
         else:
-            url2 = url + "-" + str(i) 
+            url2 = url + str(i) 
             print("Processing..." + url2)
             annonces_tot = parse_page(url2, annonces_tot)
     
@@ -158,5 +163,6 @@ def main():
 #     except AttributeError:
 #         pass
 
-main()
+#main()
 #parse_page_detail('http://www.seloger.com/annonces/locations/appartement/paris-14eme-75/didot-porte-de-vanves/119168749.htm?ci=750114,750120&idtt=1&idtypebien=1,2&naturebien=1&nb_pieces=2&pxmax=1250&surfacemin=40&tri=initial#anchorBar_detail', [])
+print(parse_page('http://www.seloger.com/list.htm?idtt=1&idtypebien=1,2&ci=750120,750114&tri=initial&naturebien=1&nb_pieces=2&pxmax=1250&surfacemin=40&LISTING-LISTpg=', []))

@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import math
+import time
 
 def parse_page(url, annonces):
     #OUVERTURE DE LA PAGE
@@ -9,6 +10,7 @@ def parse_page(url, annonces):
     session = requests.Session()
     session.max_redirects = 20
     pap_html = requests.get(url, headers=headers)
+    time.sleep(1)
     soup_pap_html = BeautifulSoup(pap_html.text,'html.parser')
     
     #PARSING DE LA PAGE
@@ -26,8 +28,8 @@ def main():
     session = requests.Session()
     session.max_redirects = 20
     pap_html = requests.get(url, headers=headers)
+    time.sleep(1)
     soup_pap_html = BeautifulSoup(pap_html.text,'html.parser')
-    print soup_pap_html
     
     #NOMBRE D'ANNONCES
     div_nbr_annonce = soup_pap_html.body.find("div",attrs={'class': "compteur-annonces"})
