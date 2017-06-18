@@ -1,51 +1,2197 @@
-<!DOCTYPE doctype html>
-<html lang="fr">
+<!DOCTYPE HTML>
+<html lang="fr-FR">
  <head>
-  <meta charset="utf-8"/>
+  <meta content="width=device-width" name="viewport"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="/favicon.ico" rel="shortcut icon"/>
+  <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="/favicon.png" rel="icon" type="image/png"/>
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" type="image/png"/>
   <title>
-   Accès refusé (erreur 403)
+   Location Paris 14e, Paris 20e 2 pièces jusqu'à 1.250 euros à partir de 40 m² | De Particulier à Particulier - PAP
   </title>
+  <meta content="Location Paris 14e, Paris 20e 2 pièces jusqu'à 1.250 E à partir de 40 m² - de particulier à particulier. Nos annonces sont mises à jour toutes les dix minutes" name="description"/>
+  <link href="http://www.pap.fr/annonce/locations-paris-14e-g37781" rel="canonical"/>
+  <meta content="noindex,nofollow,noodp" name="robots"/>
+  <link href="https://plus.google.com/+papfr" rel="publisher"/>
+  <meta content="43027661381" property="fb:page_id"/>
+  <meta content="541798429" property="fb:admins"/>
+  <meta content="187598644589485" property="fb:app_id"/>
+  <meta content="Location Paris 14e, Paris 20e 2 pièces jusqu'à 1.250 E à partir de 40 m² - PAP.fr" property="og:title"/>
+  <meta content="PAP.fr : le site immobilier de particulier à particulier. Consultez des milliers d'annonces de particuliers sur toute la France. 0 commission / 0 frais d'agence. www.pap.fr &gt;&gt;&gt;" property="og:description"/>
+  <meta content="http://www.pap.fr/common/logos/pap-114x114.png" property="og:image"/>
+  <meta content="http://www.pap.fr/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2" property="og:url"/>
+  <link href="http://www.pap.fr/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-2" rel="next"/>
+  <meta content="we69Q807xPK9ioNigMAJ3j1s0XgcdcsWVOEGNQmw898" name="google-site-verification"/>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C600%2C700%2C800%7CHandlee" rel="stylesheet" type="text/css"/>
-  <style type="text/css">
-   body {
-	font-family: "Open Sans", Arial, Verdana, sans-serif;
-	font-size: 0.9em;
-}
-  </style>
+  <link href="https://cdn.jsdelivr.net/normalize/3.0.3/normalize.min.css" rel="stylesheet" type="text/css"/>
+  <link href="https://cdn.jsdelivr.net/leaflet/0.7.7/leaflet.css" rel="stylesheet" type="text/css"/>
+  <link href="https://www.pap.fr/vendor/api-ajax-mappy-5.3.0-108/dist/L.Mappy.css" rel="stylesheet" type="text/css"/>
+  <link href="https://cdn.jsdelivr.net/jquery.multiselect/1.13/jquery.multiselect.css" rel="stylesheet" type="text/css"/>
+  <link href="https://cdn.jsdelivr.net/jquery.tooltipster/3.3.0/css/tooltipster.css" rel="stylesheet" type="text/css"/>
+  <link href="https://cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.min.css" rel="stylesheet" type="text/css"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.0/assets/owl.carousel.min.css" rel="stylesheet" type="text/css"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.0/assets/owl.theme.default.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/vendor/donuts/fonts/donuts-fontastic/styles.1484744218.css" rel="stylesheet" type="text/css"/>
+  <link href="/vendor/donuts/css/style.1490113826.css" rel="stylesheet" type="text/css"/>
+  <link href="/vendor/donuts/css/responsive.1491311867.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/main.1496155397.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/recherche.1492606985.css" rel="stylesheet" type="text/css"/>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create','UA-1360832-1',{'cookieDomain':'pap.fr','legacyCookieDomain':'pap.fr'});
+ga('send', 'timing', 'PHP Execution Time', 'Full execution', 530, 'recherche/liste');
+ga('send','pageview','/annonce/location/liste/75/paris-14e');
+  </script>
+  <!-- Hotjar Tracking Code for http://www.pap.fr -->
+  <script>
+   (function(h,o,t,j,a,r){
+		h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+		h._hjSettings={hjid:419810,hjsv:5};
+		a=o.getElementsByTagName('head')[0];
+		r=o.createElement('script');r.async=1;
+		r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+		a.appendChild(r);
+	})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+  <!--[if lt IE 9]>
+<script type="text/javascript" src="/vendor/html5shiv-3.7.0/dist/html5shiv.1383643252.js"></script>
+<![endif]-->
  </head>
  <body>
-  <center>
-   <h1>
-    Accès refusé (erreur 403)
-   </h1>
-   <p>
-    <b>
-     L'accès au site PAP.fr a été bloqué
-     <br/>
-     car votre adresse IP présente les caractéristiques d'un robot.
-    </b>
-   </p>
-   <img alt="Sad" src="data:image/png;base64,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"/>
-   <p>
-    Pour obtenir le déblocage de votre accès, veuillez contacter notre service clients :
-   </p>
-   <ul>
-    <li>
-     au
-     <b>
-      01 40 56 33 33
-     </b>
-     , du lundi au samedi de 9h à 18h
-    </li>
-    <li>
-     ou par e-mail à l'adresse
-     <b>
-      <a href="mailto:webmaster@pap.fr">
-       webmaster@pap.fr
+  <header>
+   <div class="wrapper clearfix">
+    <div class="logo float-left">
+     <a href="/">
+      <img alt="PAP.fr, Immobilier de particulier à particulier" src="/images/logo-pap-127x70.png"/>
+     </a>
+    </div>
+    <div class="catchline float-left">
+     <span class="h1">
+      <span>
+       Immobilier
+      </span>
+      <br/>
+      de
+      <em>
+       particulier
+      </em>
+      à
+      <em>
+       particulier
+      </em>
+     </span>
+    </div>
+    <div class="header-toolbox float-right clearfix sm-hidden">
+     <div class="float-left">
+      <ul class="dropotron">
+       <li>
+        <a class="tel-crc" href="tel:+33140563333">
+         <div class="icon icon-thin-phone">
+         </div>
+         <strong>
+          01 40 56 33 33
+         </strong>
+         <small>
+          du lundi au samedi de 9h à 18h
+         </small>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="float-left signature-groupe">
+      Un site édité par
+      <a href="/groupe/notre-philosophie">
+       <img alt="Groupe De Particulier à Particulier" src="/images/logo-group-old.png"/>
       </a>
-     </b>
-    </li>
-   </ul>
-  </center>
+     </div>
+    </div>
+   </div>
+  </header>
+  <div class="navbar sm-hidden">
+   <div class="wrapper clearfix">
+    <ul class="dropotron float-left" data-dropotron='{"menuClass": "navbar-dropdown"}'>
+     <li>
+      <a href="/">
+       Annonces
+      </a>
+      <ul class="hidden">
+       <li>
+        <a href="/annonce/vente-immobiliere">
+         Ventes
+        </a>
+       </li>
+       <li>
+        <a href="/annonce/locations">
+         Locations
+        </a>
+       </li>
+       <li>
+        <a href="http://www.papvacances.fr" target="_blank">
+         Vacances
+        </a>
+       </li>
+       <li>
+        <a href="http://www.papcommerces.fr" target="_blank">
+         Commerces
+        </a>
+       </li>
+       <li>
+        <a href="http://www.immoneuf.com" target="_blank">
+         Immobilier neuf
+        </a>
+       </li>
+       <li>
+        <a href="http://www.construiresamaison.com" target="_blank">
+         Construction
+        </a>
+       </li>
+       <li>
+        <a href="http://www.demeures-de-charme.com" target="_blank">
+         Demeures de Charme
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="/evaluation">
+       Prix immo
+      </a>
+      <ul class="hidden">
+       <li>
+        <a href="/evaluation/prix-m2">
+         Prix au m²
+        </a>
+       </li>
+       <li>
+        <a href="/evaluation/estimation-ligne">
+         Estimation en ligne
+        </a>
+       </li>
+       <li>
+        <a href="/evaluation/estimation-visite">
+         Estimation sur visite
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="/diagnostic">
+       Diagnostic
+      </a>
+      <ul class="hidden">
+       <li>
+        <a href="/diagnostic/devis-diagnostics-immobilier">
+         Demandez votre devis
+        </a>
+       </li>
+       <li>
+        <a href="/diagnostic/commande-en-ligne">
+         Commandez en ligne
+        </a>
+       </li>
+       <li>
+        <a href="/diagnostic/quels-sont-les-diagnostics-obligatoires">
+         Quels sont les diagnostics obligatoires ?
+        </a>
+       </li>
+       <li>
+        <a href="/diagnostic/diagnostic-immobilier">
+         Les diagnostics en détail
+        </a>
+       </li>
+       <li>
+        <a href="/diagnostic/prix-diagnostic-immobilier">
+         Prix des diagnostics
+        </a>
+       </li>
+       <li>
+        <a href="/diagnostic/validite-diagnostic-immobilier">
+         Validité des diagnostics
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="/contrats-et-guides">
+       Contrats &amp; lettres
+      </a>
+      <ul class="hidden">
+       <li>
+        <a href="/contrats-et-guides">
+         Modèles de contrats
+        </a>
+       </li>
+       <li>
+        <a href="/modeles-de-lettres">
+         Modèles de lettres
+        </a>
+       </li>
+       <li>
+        <a href="/contrats-et-guides?type=guide">
+         Guides juridiques
+        </a>
+       </li>
+       <li>
+        <a href="/argent/indices">
+         Indices INSEE
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="/argent">
+       Financement
+      </a>
+      <ul class="hidden">
+       <li>
+        <a href="/argent/credit-immobilier">
+         Crédit immobilier
+        </a>
+       </li>
+       <li>
+        <a href="/argent/credit-immobilier/simulation-pret-immobilier" onclick="ga('send','event','HEADER','Acceder Simulateur Empruntis','Menu Simulation de financement');">
+         Simulation de financement
+        </a>
+       </li>
+       <li>
+        <a href="/argent/aides-financieres">
+         Aides financières
+        </a>
+       </li>
+       <li>
+        <a href="/argent/impots">
+         Impôts
+        </a>
+       </li>
+       <li>
+        <a href="/argent/assurances">
+         Assurances
+        </a>
+       </li>
+       <li>
+        <a href="/argent/investissement-locatif">
+         Investissement locatif
+        </a>
+       </li>
+       <li>
+        <a href="/argent/calculettes">
+         Calculettes
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="/conseils">
+       Conseils
+      </a>
+      <ul class="hidden">
+       <li>
+        <a href="/conseils/achat-vente">
+         Achat - Vente
+        </a>
+       </li>
+       <li>
+        <a href="/conseils/location">
+         Location
+        </a>
+       </li>
+       <li>
+        <a href="/conseils/copropriete">
+         Copropriété
+        </a>
+       </li>
+       <li>
+        <a href="/conseils/voisinage">
+         Voisinage
+        </a>
+       </li>
+       <li>
+        <a href="/conseils/famille">
+         Famille
+        </a>
+       </li>
+       <li>
+        <a href="/conseils/succession">
+         Succession
+        </a>
+       </li>
+       <li>
+        <a href="/conseils/demenagement">
+         Déménagement
+        </a>
+       </li>
+       <li>
+        <a href="/travaux-deco">
+         Travaux
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <ul class="nav-toolbox float-left dropotron">
+     <li>
+      <a class="user-space" href="#">
+       <div class="icon icon-thin-avatar-male">
+       </div>
+       <strong>
+        Mon espace
+       </strong>
+       <small>
+        Connectez-vous
+       </small>
+      </a>
+      <ul class="nav-toolbox-dropdown hidden">
+       <div class="espace-proprietaire-links">
+        <strong>
+         Espace propriétaire
+        </strong>
+        <li>
+         <a href="/annonceur">
+          Gérer mon annonce
+         </a>
+        </li>
+       </div>
+       <hr/>
+       <div class="espace-proprietaire-links">
+        <strong>
+         Espace recherche
+        </strong>
+        <li>
+         <a href="/utilisateur">
+          Se connecter
+         </a>
+        </li>
+       </div>
+      </ul>
+     </li>
+    </ul>
+    <ul class="float-right position-relative">
+     <li>
+      <a class="btn-menu-passer-annonce" href="/annonceur/passer?itm_source=recherche-liste&amp;itm_campaign=pa-bouton-menu" onclick="ga('send','event','HEADER','Acceder Passage Annonce','Menu Passer une annonce');">
+       Passer une annonce
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <section class="breadcrumb-wrapper">
+   <div class="wrapper">
+    <div class="row no-margin-bottom">
+     <div class="col-1-1">
+      <ol class="breadcrumb " itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+       <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+        <a href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2" itemprop="item">
+         <span itemprop="name">
+          Location
+         </span>
+        </a>
+        <meta content="1" itemprop="position"/>
+       </li>
+       <li>
+        <h1>
+         Location Paris 14e, Paris 20e 2 pièces jusqu'à 1.250 € à partir de 40 m²
+        </h1>
+       </li>
+      </ol>
+     </div>
+    </div>
+   </div>
+  </section>
+  <div class="wrapper">
+   <section class="search-form-innerpage">
+    <form action="/annonce/locations" id="action_form" method="post">
+     <input name="recherche" type="hidden" value="1"/>
+     <input id="home_annonces_moteur_submit" name="submit_hidden" type="hidden" value=""/>
+     <fieldset>
+      <div class="row no-margin-bottom">
+       <div class="col-4-5">
+        <div class="row row-small-gutters no-margin-bottom">
+         <div class="col-2-3">
+          <div class="row row-small-gutters">
+           <div class="col-1-1">
+            <div class="form-group icon-token-input-localisation">
+             <label class="hidden" for="geo_objets_ids">
+              Localisation
+             </label>
+             <input class="token-input" data-token-input='{"acUrl":"\/json\/ac-geo","acUrlInit":"\/json\/ac-geo-init","minChars":2,"hintText":"R\u00e9gion, code postal, d\u00e9partement, ville, pays...","noResultsText":"0 r\u00e9sultat","searchingText":"Recherche...","tokenLimit":20,"preventDuplicates":true,"autoSelectFirstResult":true}' id="geo_objets_ids" name="geo_objets_ids" placeholder="Lieu(x)" type="text" value="37781,37787"/>
+            </div>
+           </div>
+          </div>
+          <div class="row row-small-gutters no-margin-bottom">
+           <div class="col-1-2">
+            <div class="form-group no-margin-bottom">
+             <label class="hidden" for="typesbien">
+              Type de bien
+             </label>
+             <select class="multi-select" data-multi-select='{"selectedList":3,"height":210,"noneSelectedText":"Type de bien"}' id="typesbien" multiple="multiple" name="typesbien[]">
+              <option value="maison">
+               Maison
+              </option>
+              <option value="appartement">
+               Appartement
+              </option>
+              <option value="garage-parking">
+               Garage, parking
+              </option>
+              <option value="peniche">
+               Péniche
+              </option>
+              <option value="mobil-home">
+               Chalet, mobil-home
+              </option>
+              <option value="location-accession">
+               Location-accession
+              </option>
+              <option value="residence-avec-service">
+               Résidence avec services
+              </option>
+              <option value="logement-contre-services">
+               Logement contre services
+              </option>
+              <option value="bureaux">
+               Bureaux et locaux professionnels
+              </option>
+              <option value="local-commercial">
+               Local commercial
+              </option>
+              <option value="local-d-activite">
+               Local d'activité
+              </option>
+              <option value="divers">
+               Propositions diverses
+              </option>
+             </select>
+            </div>
+           </div>
+           <div class="col-1-2">
+            <div class="row row-small-gutters no-margin-bottom">
+             <div class="col-1-2">
+              <div class="form-group no-margin-bottom">
+               <label class="hidden" for="nb_pieces">
+                Pièces
+               </label>
+               <select class="multi-select" data-multi-select='{"selectedList":2,"height":210,"noneSelectedText":"Pi\u00e8ces"}' id="nb_pieces" multiple="multiple" name="nb_pieces[list][]">
+                <option value="1">
+                 Studio
+                </option>
+                <option selected="selected" value="2">
+                 2 pièces
+                </option>
+                <option value="3">
+                 3 pièces
+                </option>
+                <option value="4">
+                 4 pièces
+                </option>
+                <option value="5">
+                 5 pièces
+                </option>
+                <option value="6">
+                 6 pièces et +
+                </option>
+               </select>
+              </div>
+             </div>
+             <div class="col-1-2">
+              <div class="form-group no-margin-bottom">
+               <label class="hidden" for="nb_chambres">
+                Nombre de chambres
+               </label>
+               <select class="single-select" id="nb_chambres" name="nb_chambres[min]">
+                <option class="selected" selected="selected" value="">
+                 Chambres
+                </option>
+                <option value="1">
+                 1 chambre
+                </option>
+                <option value="2">
+                 2 chambres
+                </option>
+                <option value="3">
+                 3 chambres
+                </option>
+                <option value="4">
+                 4 chambres
+                </option>
+                <option value="5">
+                 5 chambres
+                </option>
+                <option value="6">
+                 6 chambres
+                </option>
+               </select>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="col-1-3">
+          <div class="row row-small-gutters">
+           <div class="col-1-2">
+            <div class="form-group">
+             <label class="hidden" for="prix_min">
+              Prix minimum
+             </label>
+             <input class="icon-input-euros" id="prix_min" name="prix[min]" placeholder="Prix min" type="text" value=""/>
+            </div>
+           </div>
+           <div class="col-1-2">
+            <div class="form-group">
+             <label class="hidden" for="prix_max">
+              Prix maximum
+             </label>
+             <input class="icon-input-euros" id="prix_max" name="prix[max]" placeholder="Prix max" type="text" value="1250"/>
+            </div>
+           </div>
+          </div>
+          <div class="row row-small-gutters no-margin-bottom">
+           <div class="col-1-2">
+            <div class="form-group no-margin-bottom">
+             <label class="hidden" for="surface_min">
+              Surface minimum
+             </label>
+             <input class="icon-input-surface" id="surface_min" name="surface[min]" placeholder="Surface min" type="text" value="40"/>
+            </div>
+           </div>
+           <div class="col-1-2">
+            <div class="form-group no-margin-bottom">
+             <label class="hidden" for="surface_max">
+              Surface maximum
+             </label>
+             <input id="surface_max" name="surface[max]" placeholder="Surface max" type="text" value=""/>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="col-1-5">
+        <input class="btn btn-type-2 btn-full-width" onclick="ga('send','event','LISTE LOCATION','Rechercher','Bouton Actualiser');" type="submit" value="Actualiser">
+         <a class="btn btn-type-6 btn-full-width btn-plus-criteres slide-toggle-handler" href="#plus_de_criteres" onclick="ga('send','event','LISTE LOCATION','Preciser Recherche','+ de criteres');">
+          <span class="icon">
+          </span>
+          Plus de critères
+         </a>
+        </input>
+       </div>
+      </div>
+      <div class="no-margin-bottom hidden slide-toggle-content" id="plus_de_criteres">
+       <hr class="hr-invisible"/>
+       <div class="row row-small-gutters">
+        <div class="col-1-5 padding-top-8">
+         <label for="surface_min">
+          <strong>
+           Surface du terrain :
+          </strong>
+         </label>
+        </div>
+        <div class="col-1-5">
+         <div class="form-group">
+          <label class="hidden" for="surface_min">
+           Surface minimum
+          </label>
+          <input class="icon-input-surface" id="surface_min" name="surface_terrain[min]" placeholder="Surface min" type="text" value=""/>
+         </div>
+        </div>
+        <div class="col-1-5">
+         <div class="form-group">
+          <label class="hidden" for="surface_max">
+           Surface maximum
+          </label>
+          <input class="icon-input-surface" id="surface_max" name="surface_terrain[max]" placeholder="Surface max" type="text" value=""/>
+         </div>
+        </div>
+       </div>
+       <div class="row row-small-gutters">
+        <div class="col-1-5 padding-top-8">
+         <label for="transport_objets_ids">
+          <strong>
+           Transports en commun :
+          </strong>
+         </label>
+        </div>
+        <div class="col-4-5">
+         <div class="form-group">
+          <input class="token-input" data-token-input='{"acUrl":"\/json\/ac-transport","acUrlInit":"\/json\/ac-transport-init","minChars":1,"hintText":"Indiquez une ligne ou une station de m\u00e9tro (Ile-de-France uniquement)","noResultsText":"0 r&amp;eacute;sultat","searchingText":"Recherche...","tokenLimit":20,"preventDuplicates":true,"autoSelectFirstResult":true}' id="transport_objets_ids" name="transport_objets_ids" type="text" value="">
+          </input>
+         </div>
+        </div>
+       </div>
+       <div class="row row-small-gutters">
+        <div class="col-1-5 padding-top-8">
+         <label for="transport_objets_ids">
+          <strong>
+           Critères avancés :
+          </strong>
+         </label>
+        </div>
+        <div class="col-4-5">
+         <div class="form-group">
+          <div class="options-group options-group-inline" id="tags">
+           <div class="option">
+            <input id="tags_ascenseur" name="tags[]" type="checkbox" value="ascenseur">
+             <label for="tags_ascenseur">
+              Ascenseur
+             </label>
+            </input>
+           </div>
+           <div class="option">
+            <input id="tags_meuble" name="tags[]" type="checkbox" value="meuble">
+             <label for="tags_meuble">
+              Location meublée
+             </label>
+            </input>
+           </div>
+           <div class="option">
+            <input id="tags_vide" name="tags[]" type="checkbox" value="vide">
+             <label for="tags_vide">
+              Location vide
+             </label>
+            </input>
+           </div>
+           <div class="option">
+            <input id="tags_duplex-triplex" name="tags[]" type="checkbox" value="duplex-triplex">
+             <label for="tags_duplex-triplex">
+              Duplex / loft
+             </label>
+            </input>
+           </div>
+           <div class="option">
+            <input id="tags_coloc" name="tags[]" type="checkbox" value="coloc"/>
+            <label for="tags_coloc">
+             Colocation acceptée
+            </label>
+           </div>
+           <div class="option">
+            <input id="tags_dernier-etage" name="tags[]" type="checkbox" value="dernier-etage"/>
+            <label for="tags_dernier-etage">
+             Dernier étage
+            </label>
+           </div>
+           <div class="option">
+            <input id="tags_balcon-terrasse" name="tags[]" type="checkbox" value="balcon-terrasse"/>
+            <label for="tags_balcon-terrasse">
+             Avec balcon ou terrasse
+            </label>
+           </div>
+           <div class="option">
+            <input id="tags_garages-parkings" name="tags[]" type="checkbox" value="garages-parkings"/>
+            <label for="tags_garages-parkings">
+             Avec garage ou parking
+            </label>
+           </div>
+           <div class="option">
+            <input id="tags_acces-handicape" name="tags[]" type="checkbox" value="acces-handicape"/>
+            <label for="tags_acces-handicape">
+             Personne à mobilité réduite
+            </label>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="row row-small-gutters">
+        <div class="col-1-5 padding-top-8">
+         <label for="reference_courte">
+          <strong>
+           Accès par référence :
+          </strong>
+         </label>
+        </div>
+        <div class="col-1-5">
+         <input id="reference_courte" name="reference_courte" placeholder="Ex : A93/0522" type="text"/>
+        </div>
+       </div>
+      </div>
+     </fieldset>
+    </form>
+   </section>
+  </div>
+  <div class="wrapper">
+   <section class="annonce-a-la-une">
+    <div class="row no-margin-bottom">
+     <div class="col-1-4">
+      <div class="item position-relative">
+       <div class="thumb img-liquid">
+        <img alt="Location meublée appartement 2 pièces 38 m² Paris 14E - 1.085 €" src="http://static.pap.fr/photos/B65/B65A1342.thumb.jpg"/>
+       </div>
+       <a href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416501342?u=1" onclick="ga('send','event','LISTE LOCATION','Consulter A la une','Top');">
+        <div class="tag-alaune">
+         À la une
+        </div>
+        <div class="price">
+         1.085 €
+        </div>
+        <div class="details">
+         <span class="location">
+          Paris 14e
+         </span>
+         <span class="summary">
+          Appartement, 2 pièces, 38 m²
+         </span>
+         <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=a-la-une&amp;pbrand=liste&amp;pref=416501342&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="col-1-4">
+      <div class="item position-relative">
+       <div class="thumb img-liquid">
+        <img alt="Location meublée appartement 3 pièces 52 m² Montrouge (92120) - 1.347 €" src="http://static.pap.fr/photos/A37/A37A1257.thumb.jpg"/>
+       </div>
+       <a href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r403701257?u=1" onclick="ga('send','event','LISTE LOCATION','Consulter A la une','Top');">
+        <div class="tag-alaune">
+         À la une
+        </div>
+        <div class="price">
+         1.347 €
+        </div>
+        <div class="details">
+         <span class="location">
+          Montrouge
+         </span>
+         <span class="summary">
+          Appartement, 3 pièces, 52 m²
+         </span>
+         <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=a-la-une&amp;pbrand=liste&amp;pref=403701257&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="col-1-4">
+      <div class="item position-relative">
+       <div class="thumb img-liquid">
+        <img alt="Location appartement 3 pièces 60 m² Montrouge (92120) - 1.350 €" src="http://static.pap.fr/photos/835/835A4208.thumb.jpg"/>
+       </div>
+       <a href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r183504208?u=1" onclick="ga('send','event','LISTE LOCATION','Consulter A la une','Top');">
+        <div class="tag-alaune">
+         À la une
+        </div>
+        <div class="price">
+         1.350 €
+        </div>
+        <div class="details">
+         <span class="location">
+          Montrouge
+         </span>
+         <span class="summary">
+          Appartement, 3 pièces, 60 m²
+         </span>
+         <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=a-la-une&amp;pbrand=liste&amp;pref=183504208&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="col-1-4">
+      <div class="item position-relative">
+       <div class="thumb img-liquid">
+        <img alt="Location meublée appartement 2 pièces 40 m² Paris 5E - 1.200 €" src="http://static.pap.fr/photos/B67/B67A1216.thumb.jpg"/>
+       </div>
+       <a href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416701216?u=1" onclick="ga('send','event','LISTE LOCATION','Consulter A la une','Top');">
+        <div class="tag-alaune">
+         À la une
+        </div>
+        <div class="price">
+         1.200 €
+        </div>
+        <div class="details">
+         <span class="location">
+          Paris 5e
+         </span>
+         <span class="summary">
+          Appartement, 2 pièces, 40 m²
+         </span>
+         <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=a-la-une&amp;pbrand=liste&amp;pref=416701216&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+   </section>
+  </div>
+  <section class="search-results-container">
+   <div class="wrapper clearfix">
+    <div class="w760 float-left">
+     <div class="filter-bar">
+      <div class="row">
+       <div class="col-1-3">
+        <div class="compteur-annonces">
+         <strong>
+          4 annonces
+         </strong>
+        </div>
+       </div>
+       <div class="col-2-3">
+        <div class="clearfix">
+         <a class="btn btn-small btn-type-5 dialog-box-handler btn-icon float-right cta-alerte" data-origine="11" href="#" onclick="ga('send','event','LISTE LOCATION','Acceder Creation Alerte','Top cours recherche');" rel="nofollow">
+          <span class="icon icon-thin-mail">
+          </span>
+          Créer une alerte
+         </a>
+         <form action="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2" class="w150 float-right" id="moteur_de_pagination" method="post">
+          <div class="form-group">
+           <label class="hidden" for="tri">
+            Trier les résultats
+           </label>
+           <select class="single-select" id="tri" name="tri">
+            <option selected="selected" value="date-desc">
+             Plus récentes
+            </option>
+            <option value="date-asc">
+             Plus anciennes
+            </option>
+            <option value="prix-asc">
+             Moins chères
+            </option>
+            <option value="prix-desc">
+             Plus chères
+            </option>
+            <option value="surface-desc">
+             Plus grandes
+            </option>
+            <option value="surface-asc">
+             Plus petites
+            </option>
+           </select>
+           <input name="recherche" type="hidden" value="1"/>
+          </div>
+         </form>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="search-results-list">
+      <div class="box search-results-item">
+       <div class="box-header box-header-favoris">
+        <a class="btn-add-favorite tooltip" data-annonce='{"id":"412902311","active":false}' href="#dialog-enregistrer-email" title="Ajouter aux favoris">
+         <span class="icon icon-thin">
+         </span>
+        </a>
+        <a class="title-item" href="/annonces/appartement-paris-20e-r412902311" name="412902311" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Titre');">
+         <span class="h1">
+          Location meublée appartement 2 pièces 40 m² Paris 20E
+         </span>
+         <span class="price">
+          <strong>
+           1.150 €
+          </strong>
+         </span>
+        </a>
+        <p class="date">
+         Réf. : B29/2311 /  01 juin 2017
+        </p>
+       </div>
+       <div class="box-body">
+        <div class="row no-margin-bottom">
+         <div class="col-2-5 position-relative">
+          <a class="thumb img-liquid" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r412902311" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Visuel');" rel="nofollow">
+           <img alt="Paris 20E" src="http://static.pap.fr/photos/B29/B29A2311.thumb.jpg"/>
+          </a>
+          <div class="nb-photo">
+           5
+          </div>
+         </div>
+         <div class="col-3-5">
+          <p class="item-description" data-gaq='{"category":"LISTE LOCATION","action":"Consulter","label":"Resume Description"}'>
+           <strong>
+            Paris 20e (75020).
+           </strong>
+           Situé dans la rue Pelleport, à proximité de l'arrêt de bus Borrego (ligne 60), dans une résidence arborée, rez de chaussée avec jardin privatif, location d'un appartement de 40 mètres carrés meublé + 15 mètres carrés de...
+          </p>
+          <div class="clearfix">
+           <ul class="item-summary float-left">
+            <li>
+             Pièces
+             <strong>
+              2
+             </strong>
+            </li>
+            <li>
+             Chambre
+             <strong>
+              1
+             </strong>
+            </li>
+            <li>
+             Surface
+             <strong>
+              40
+              <small>
+               m
+               <sup>
+                2
+               </sup>
+              </small>
+             </strong>
+            </li>
+           </ul>
+           <div class="float-right">
+            <a class="btn btn-type-1 btn-details" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r412902311" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Details');" rel="nofollow">
+             Détails
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <p class="action-annonce hidden" data-annonce='{"id":"412902311"}'>
+        </p>
+       </div>
+      </div>
+      <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=recherche&amp;pbrand=liste&amp;pref=412902311&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+      <div class="pub" id="5083856">
+       <noscript>
+        <a href="https://secserv.adtech.de/adlink/3.0|1521|5083856|0|6133|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;sub1=[subst];rdclick=;alias=" target="_blank">
+         <img alt="" height="100" src="https://secserv.adtech.de/adserv/3.0|1521|5083856|0|6133|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;alias=" width="100"/>
+        </a>
+       </noscript>
+      </div>
+      <div class="box search-results-item">
+       <div class="box-header box-header-favoris">
+        <a class="btn-add-favorite tooltip" data-annonce='{"id":"416700044","active":false}' href="#dialog-enregistrer-email" title="Ajouter aux favoris">
+         <span class="icon icon-thin">
+         </span>
+        </a>
+        <a class="title-item" href="/annonces/appartement-paris-20e-r416700044" name="416700044" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Titre');">
+         <span class="h1">
+          Location appartement 2 pièces 42 m² Paris 20E
+         </span>
+         <span class="price">
+          <strong>
+           1.221 €
+          </strong>
+         </span>
+        </a>
+        <p class="date">
+         Réf. : B67/0044 /  01 juin 2017
+        </p>
+       </div>
+       <div class="box-body">
+        <div class="row no-margin-bottom">
+         <div class="col-2-5 position-relative">
+          <a class="thumb img-liquid" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416700044" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Visuel');" rel="nofollow">
+           <img alt="Paris 20E" src="http://static.pap.fr/photos/B67/B67A0044.thumb.jpg"/>
+          </a>
+          <div class="nb-photo">
+           10
+          </div>
+         </div>
+         <div class="col-3-5">
+          <p class="item-description" data-gaq='{"category":"LISTE LOCATION","action":"Consulter","label":"Resume Description"}'>
+           <strong>
+            Paris 20e (75020).
+           </strong>
+           Appartement 2 pieces 42 m² proche nation.
+
+Bon état au 8eme étage avec ascenceur, gardien, digicode lumineux et calme,
+il possede un double vitrage et volet roulant.
+
+Il est composé d'un couloir avec rangement...
+          </p>
+          <p class="item-transports">
+           Maraîchers, Buzenval, Avron
+          </p>
+          <div class="clearfix">
+           <ul class="item-summary float-left">
+            <li>
+             Pièces
+             <strong>
+              2
+             </strong>
+            </li>
+            <li>
+             Chambre
+             <strong>
+              1
+             </strong>
+            </li>
+            <li>
+             Surface
+             <strong>
+              42
+              <small>
+               m
+               <sup>
+                2
+               </sup>
+              </small>
+             </strong>
+            </li>
+           </ul>
+           <div class="float-right">
+            <a class="btn btn-type-1 btn-details" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416700044" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Details');" rel="nofollow">
+             Détails
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <p class="action-annonce hidden" data-annonce='{"id":"416700044"}'>
+        </p>
+       </div>
+      </div>
+      <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=recherche&amp;pbrand=liste&amp;pref=416700044&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+      <div class="box search-results-item">
+       <div class="box-header box-header-favoris">
+        <a class="btn-add-favorite tooltip" data-annonce='{"id":"416700047","active":false}' href="#dialog-enregistrer-email" title="Ajouter aux favoris">
+         <span class="icon icon-thin">
+         </span>
+        </a>
+        <a class="title-item" href="/annonces/appartement-paris-20e-r416700047" name="416700047" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Titre');">
+         <span class="h1">
+          Location meublée appartement 2 pièces 42 m² Paris 20E
+         </span>
+         <span class="price">
+          <strong>
+           1.250 €
+          </strong>
+         </span>
+        </a>
+        <p class="date">
+         Réf. : B67/0047 /  01 juin 2017
+        </p>
+       </div>
+       <div class="box-body">
+        <div class="row no-margin-bottom">
+         <div class="col-2-5 position-relative">
+          <a class="thumb img-liquid" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416700047" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Visuel');" rel="nofollow">
+           <img alt="Paris 20E" src="http://static.pap.fr/photos/B67/B67A0047.thumb.jpg"/>
+          </a>
+          <div class="nb-photo">
+           10
+          </div>
+         </div>
+         <div class="col-3-5">
+          <p class="item-description" data-gaq='{"category":"LISTE LOCATION","action":"Consulter","label":"Resume Description"}'>
+           <strong>
+            Paris 20e (75020).
+           </strong>
+           Meublé 2p, parc de Belleville, très confortable
+
+Beau 2 pièces, immeuble ancien, 42m2, 4e étage, refait à neuf et meublé avec soin, grande cuisine séparée, douche italienne, dressing, bibliothèque, beaucoup de...
+          </p>
+          <div class="clearfix">
+           <ul class="item-summary float-left">
+            <li>
+             Pièces
+             <strong>
+              2
+             </strong>
+            </li>
+            <li>
+             Chambre
+             <strong>
+              1
+             </strong>
+            </li>
+            <li>
+             Surface
+             <strong>
+              42
+              <small>
+               m
+               <sup>
+                2
+               </sup>
+              </small>
+             </strong>
+            </li>
+           </ul>
+           <div class="float-right">
+            <a class="btn btn-type-1 btn-details" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416700047" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Details');" rel="nofollow">
+             Détails
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <p class="action-annonce hidden" data-annonce='{"id":"416700047"}'>
+        </p>
+       </div>
+      </div>
+      <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=recherche&amp;pbrand=liste&amp;pref=416700047&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+      <div class="box search-results-item">
+       <div class="box-header box-header-favoris">
+        <a class="btn-add-favorite tooltip" data-annonce='{"id":"416400618","active":false}' href="#dialog-enregistrer-email" title="Ajouter aux favoris">
+         <span class="icon icon-thin">
+         </span>
+        </a>
+        <a class="title-item" href="/annonces/appartement-paris-20e-r416400618" name="416400618" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Titre');">
+         <span class="h1">
+          Location meublée appartement 2 pièces 45 m² Paris 20E
+         </span>
+         <span class="price">
+          <strong>
+           1.100 €
+          </strong>
+         </span>
+        </a>
+        <p class="date">
+         Réf. : B64/0618 /  01 juin 2017
+        </p>
+       </div>
+       <div class="box-body">
+        <div class="row no-margin-bottom">
+         <div class="col-2-5 position-relative">
+          <a class="thumb img-liquid" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416400618" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Visuel');" rel="nofollow">
+           <img alt="Paris 20E" src="http://static.pap.fr/photos/B64/B64A0618.thumb.jpg"/>
+          </a>
+          <div class="nb-photo">
+           8
+          </div>
+         </div>
+         <div class="col-3-5">
+          <p class="item-description" data-gaq='{"category":"LISTE LOCATION","action":"Consulter","label":"Resume Description"}'>
+           <strong>
+            Paris 20e (75020).
+           </strong>
+           Duplex de 45 m². Libre à partir de Mai-Juin 2017.
+ 
+Loyer : 1.100 €/mois + 100 € charges.
+          </p>
+          <p class="item-transports">
+           Maraîchers, Porte de Montreuil, Marie de Miribel
+          </p>
+          <div class="clearfix">
+           <ul class="item-summary float-left">
+            <li>
+             Pièces
+             <strong>
+              2
+             </strong>
+            </li>
+            <li>
+             Chambre
+             <strong>
+              1
+             </strong>
+            </li>
+            <li>
+             Surface
+             <strong>
+              45
+              <small>
+               m
+               <sup>
+                2
+               </sup>
+              </small>
+             </strong>
+            </li>
+           </ul>
+           <div class="float-right">
+            <a class="btn btn-type-1 btn-details" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416400618" onclick="ga('send','event','LISTE LOCATION','Consulter','Resume Details');" rel="nofollow">
+             Détails
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <p class="action-annonce hidden" data-annonce='{"id":"416400618"}'>
+        </p>
+       </div>
+      </div>
+      <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=recherche&amp;pbrand=liste&amp;pref=416400618&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+      <div class="item-group-title">
+       Annonces à 5 km autour de Paris 14e
+      </div>
+      <div class="box search-results-item">
+       <div class="box-header box-header-favoris">
+        <a class="btn-add-favorite tooltip" data-annonce='{"id":"414800328","active":false}' href="#dialog-enregistrer-email" title="Ajouter aux favoris">
+         <span class="icon icon-thin">
+         </span>
+        </a>
+        <a class="title-item" href="/annonces/appartement-montrouge-92120-r414800328" name="414800328" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Petite Couronne - 2km','Resume Titre');">
+         <span class="h1">
+          Location appartement 2 pièces 42 m² Montrouge (92120)
+         </span>
+         <span class="price">
+          <strong>
+           980 €
+          </strong>
+         </span>
+        </a>
+        <p class="date">
+         Réf. : B48/0328 /  01 juin 2017
+        </p>
+       </div>
+       <div class="box-body">
+        <div class="row no-margin-bottom">
+         <div class="col-2-5 position-relative">
+          <a class="thumb img-liquid" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r414800328" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Petite Couronne - 2km','Resume Visuel');" rel="nofollow">
+           <img alt="Montrouge (92120)" src="http://static.pap.fr/photos/B48/B48A0328.thumb.jpg"/>
+          </a>
+          <div class="nb-photo">
+           9
+          </div>
+         </div>
+         <div class="col-3-5">
+          <p class="item-proximite">
+           A 2 km
+							de Paris 14e
+          </p>
+          <p class="item-description" data-gaq='{"category":"LISTE LOCATION","action":"Consulter proximite Petite Couronne - 2km","label":"Resume Description"}'>
+           <strong>
+            Montrouge (92120).
+           </strong>
+           Dans résidence sécurisée, 2 pièces 42 m², rez-de-chaussée sur jardin et parking intérieur.
+Entrée, séjour, chambre avec dressing, salle de bains/wc, cuisine séparée et équipée avec lave-linge. Cave. Local...
+          </p>
+          <div class="clearfix">
+           <ul class="item-summary float-left">
+            <li>
+             Pièces
+             <strong>
+              2
+             </strong>
+            </li>
+            <li>
+             Chambre
+             <strong>
+              1
+             </strong>
+            </li>
+            <li>
+             Surface
+             <strong>
+              42
+              <small>
+               m
+               <sup>
+                2
+               </sup>
+              </small>
+             </strong>
+            </li>
+           </ul>
+           <div class="float-right">
+            <a class="btn btn-type-1 btn-details" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r414800328" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Petite Couronne - 2km','Resume Details');" rel="nofollow">
+             Détails
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <p class="action-annonce hidden" data-annonce='{"id":"414800328"}'>
+        </p>
+       </div>
+      </div>
+      <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=recherche&amp;pbrand=liste&amp;pref=414800328&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+      <div class="box search-results-item">
+       <div class="box-header box-header-favoris">
+        <a class="btn-add-favorite tooltip" data-annonce='{"id":"416701549","active":false}' href="#dialog-enregistrer-email" title="Ajouter aux favoris">
+         <span class="icon icon-thin">
+         </span>
+        </a>
+        <a class="title-item" href="/annonces/appartement-montrouge-92120-r416701549" name="416701549" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Petite Couronne - 2km','Resume Titre');">
+         <span class="h1">
+          Location appartement 2 pièces 50 m² Montrouge (92120)
+         </span>
+         <span class="price">
+          <strong>
+           1.125 €
+          </strong>
+         </span>
+        </a>
+        <p class="date">
+         Réf. : B67/1549 /  29 mai 2017
+        </p>
+       </div>
+       <div class="box-body">
+        <div class="row no-margin-bottom">
+         <div class="col-2-5 position-relative">
+          <a class="thumb img-liquid" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416701549" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Petite Couronne - 2km','Resume Visuel');" rel="nofollow">
+           <img alt="Montrouge (92120)" src="http://static.pap.fr/photos/B67/B67A1549.thumb.jpg"/>
+          </a>
+          <div class="nb-photo">
+           10
+          </div>
+         </div>
+         <div class="col-3-5">
+          <p class="item-proximite">
+           A 2 km
+							de Paris 14e
+          </p>
+          <p class="item-description" data-gaq='{"category":"LISTE LOCATION","action":"Consulter proximite Petite Couronne - 2km","label":"Resume Description"}'>
+           <strong>
+            Montrouge (92120).
+           </strong>
+           Proximité desserte métro Mairie de Montrouge et bus arrêt Barbès Ory. Agréable 2 pièces sécurisé et lumineux, double exposition sur jardins. Distribution : Entrée-séjour parquetés ouvrant sur une véranda, une...
+          </p>
+          <p class="item-transports">
+           Montsouris, Porte d'Orléans (Général Leclerc), Mairie de Montrouge
+          </p>
+          <div class="clearfix">
+           <ul class="item-summary float-left">
+            <li>
+             Pièces
+             <strong>
+              2
+             </strong>
+            </li>
+            <li>
+             Chambre
+             <strong>
+              1
+             </strong>
+            </li>
+            <li>
+             Surface
+             <strong>
+              50
+              <small>
+               m
+               <sup>
+                2
+               </sup>
+              </small>
+             </strong>
+            </li>
+           </ul>
+           <div class="float-right">
+            <a class="btn btn-type-1 btn-details" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416701549" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Petite Couronne - 2km','Resume Details');" rel="nofollow">
+             Détails
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <p class="action-annonce hidden" data-annonce='{"id":"416701549"}'>
+        </p>
+       </div>
+      </div>
+      <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=recherche&amp;pbrand=liste&amp;pref=416701549&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+      <div class="box search-results-item">
+       <div class="box-header box-header-favoris">
+        <a class="btn-add-favorite tooltip" data-annonce='{"id":"416701216","active":false}' href="#dialog-enregistrer-email" title="Ajouter aux favoris">
+         <span class="icon icon-thin">
+         </span>
+        </a>
+        <a class="title-item" href="/annonces/appartement-paris-5e-r416701216" name="416701216" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Titre');">
+         <span class="h1">
+          Location meublée appartement 2 pièces 40 m² Paris 5E
+         </span>
+         <span class="price">
+          <strong>
+           1.200 €
+          </strong>
+         </span>
+        </a>
+        <p class="date">
+         Réf. : B67/1216 /  29 mai 2017
+        </p>
+       </div>
+       <div class="box-body">
+        <div class="row no-margin-bottom">
+         <div class="col-2-5 position-relative">
+          <a class="thumb img-liquid" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416701216" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Visuel');" rel="nofollow">
+           <img alt="Paris 5E" src="http://static.pap.fr/photos/B67/B67A1216.thumb.jpg"/>
+          </a>
+          <div class="nb-photo">
+           9
+          </div>
+         </div>
+         <div class="col-3-5">
+          <p class="item-proximite">
+           A 2 km
+							de Paris 14e
+          </p>
+          <p class="item-description" data-gaq='{"category":"LISTE LOCATION","action":"Consulter proximite Paris - 2km","label":"Resume Description"}'>
+           <strong>
+            Paris 5e (75005).
+           </strong>
+           T1 bis meublé de 35 m² loi Carrez (40 m² au sol). Métro Jussieu.
+ 
+Petit immeuble très calme, face entrée du Jardin des Plantes, au
+3ème et dernier étage, sans ascenseur.
+
+Studio lumineux en bon état,...
+          </p>
+          <p class="item-transports">
+           Place Monge (Jardin des Plantes - Arènes de Lutèce), Jussieu, Cardinal Lemoine
+          </p>
+          <div class="clearfix">
+           <ul class="item-summary float-left">
+            <li>
+             Pièces
+             <strong>
+              2
+             </strong>
+            </li>
+            <li>
+             Chambre
+             <strong>
+              1
+             </strong>
+            </li>
+            <li>
+             Surface
+             <strong>
+              40
+              <small>
+               m
+               <sup>
+                2
+               </sup>
+              </small>
+             </strong>
+            </li>
+           </ul>
+           <div class="float-right">
+            <a class="btn btn-type-1 btn-details" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416701216" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Details');" rel="nofollow">
+             Détails
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <p class="action-annonce hidden" data-annonce='{"id":"416701216"}'>
+        </p>
+       </div>
+      </div>
+      <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=recherche&amp;pbrand=liste&amp;pref=416701216&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+      <div class="box search-results-item">
+       <div class="box-header box-header-favoris">
+        <a class="btn-add-favorite tooltip" data-annonce='{"id":"181004156","active":false}' href="#dialog-enregistrer-email" title="Ajouter aux favoris">
+         <span class="icon icon-thin">
+         </span>
+        </a>
+        <a class="title-item" href="/annonces/appartement-paris-15e-r181004156" name="181004156" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Titre');">
+         <span class="h1">
+          Location appartement 2 pièces 40 m² Paris 15E
+         </span>
+         <span class="price">
+          <strong>
+           1.250 €
+          </strong>
+         </span>
+        </a>
+        <p class="date">
+         Réf. : 810/4156 /  29 mai 2017
+        </p>
+       </div>
+       <div class="box-body">
+        <div class="row no-margin-bottom">
+         <div class="col-2-5 position-relative">
+          <a class="thumb img-liquid" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r181004156" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Visuel');" rel="nofollow">
+           <img alt="Paris 15E" src="http://static.pap.fr/photos/810/810A4156.thumb.jpg"/>
+          </a>
+          <div class="nb-photo">
+           5
+          </div>
+         </div>
+         <div class="col-3-5">
+          <p class="item-proximite">
+           A 2 km
+							de Paris 14e
+          </p>
+          <p class="item-description" data-gaq='{"category":"LISTE LOCATION","action":"Consulter proximite Paris - 2km","label":"Resume Description"}'>
+           <strong>
+            Paris 15e (75015).
+           </strong>
+           Métro Convention. 
+2 pièces 40 m² en très bon état: entrée, cuisine, salle de bains (baignoire et lavabo), wc indépendants. Toutes pièces indépendantes avec fenêtres double vitrage. Cave. Clair et calme. Gardien,...
+          </p>
+          <div class="clearfix">
+           <ul class="item-summary float-left">
+            <li>
+             Pièces
+             <strong>
+              2
+             </strong>
+            </li>
+            <li>
+             Chambre
+             <strong>
+              1
+             </strong>
+            </li>
+            <li>
+             Surface
+             <strong>
+              40
+              <small>
+               m
+               <sup>
+                2
+               </sup>
+              </small>
+             </strong>
+            </li>
+           </ul>
+           <div class="float-right">
+            <a class="btn btn-type-1 btn-details" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r181004156" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Details');" rel="nofollow">
+             Détails
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <p class="action-annonce hidden" data-annonce='{"id":"181004156"}'>
+        </p>
+       </div>
+      </div>
+      <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=recherche&amp;pbrand=liste&amp;pref=181004156&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+      <div class="box search-results-item">
+       <div class="box-header box-header-favoris">
+        <a class="btn-add-favorite tooltip" data-annonce='{"id":"416401854","active":false}' href="#dialog-enregistrer-email" title="Ajouter aux favoris">
+         <span class="icon icon-thin">
+         </span>
+        </a>
+        <a class="title-item" href="/annonces/appartement-paris-15e-r416401854" name="416401854" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Titre');">
+         <span class="h1">
+          Location meublée appartement 2 pièces 45 m² Paris 15E
+         </span>
+         <span class="price">
+          <strong>
+           1.250 €
+          </strong>
+         </span>
+        </a>
+        <p class="date">
+         Réf. : B64/1854 /  01 juin 2017
+        </p>
+       </div>
+       <div class="box-body">
+        <div class="row no-margin-bottom">
+         <div class="col-2-5 position-relative">
+          <a class="thumb img-liquid" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416401854" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Visuel');" rel="nofollow">
+           <img alt="Paris 15E" src="http://static.pap.fr/photos/B64/B64A1854.thumb.jpg"/>
+          </a>
+          <div class="nb-photo">
+           4
+          </div>
+         </div>
+         <div class="col-3-5">
+          <p class="item-proximite">
+           A 2 km
+							de Paris 14e
+          </p>
+          <p class="item-description" data-gaq='{"category":"LISTE LOCATION","action":"Consulter proximite Paris - 2km","label":"Resume Description"}'>
+           <strong>
+            Paris 15e (75015).
+           </strong>
+           Deux pièces meublé, spacieux et calme : séjour avec canapé transformable, table 4 places et chaises, bibliothèque et TV écran plat Grande chambre avec lit 2 places, armoire et commode - Cuisine totalement équipée...
+          </p>
+          <div class="clearfix">
+           <ul class="item-summary float-left">
+            <li>
+             Pièces
+             <strong>
+              2
+             </strong>
+            </li>
+            <li>
+             Chambre
+             <strong>
+              1
+             </strong>
+            </li>
+            <li>
+             Surface
+             <strong>
+              45
+              <small>
+               m
+               <sup>
+                2
+               </sup>
+              </small>
+             </strong>
+            </li>
+           </ul>
+           <div class="float-right">
+            <a class="btn btn-type-1 btn-details" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416401854" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Details');" rel="nofollow">
+             Détails
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <p class="action-annonce hidden" data-annonce='{"id":"416401854"}'>
+        </p>
+       </div>
+      </div>
+      <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=recherche&amp;pbrand=liste&amp;pref=416401854&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+      <div class="pub" id="5083855">
+       <noscript>
+        <a href="https://secserv.adtech.de/adlink/3.0|1521|5083855|0|6133|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;sub1=[subst];rdclick=;alias=" target="_blank">
+         <img alt="" height="100" src="https://secserv.adtech.de/adserv/3.0|1521|5083855|0|6133|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;alias=" width="100"/>
+        </a>
+       </noscript>
+      </div>
+      <div class="box search-results-item">
+       <div class="box-header box-header-favoris">
+        <a class="btn-add-favorite tooltip" data-annonce='{"id":"416600759","active":false}' href="#dialog-enregistrer-email" title="Ajouter aux favoris">
+         <span class="icon icon-thin">
+         </span>
+        </a>
+        <a class="title-item" href="/annonces/appartement-paris-15e-r416600759" name="416600759" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Titre');">
+         <span class="h1">
+          Location appartement 2 pièces 41 m² Paris 15E
+         </span>
+         <span class="price">
+          <strong>
+           1.215 €
+          </strong>
+         </span>
+        </a>
+        <p class="date">
+         Réf. : B66/0759 /  01 juin 2017
+        </p>
+       </div>
+       <div class="box-body">
+        <div class="row no-margin-bottom">
+         <div class="col-2-5 position-relative">
+          <a class="thumb img-liquid" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416600759" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Visuel');" rel="nofollow">
+           <img alt="Paris 15E" src="http://static.pap.fr/photos/B66/B66A0759.thumb.jpg"/>
+          </a>
+          <div class="nb-photo">
+           6
+          </div>
+         </div>
+         <div class="col-3-5">
+          <p class="item-proximite">
+           A 2 km
+							de Paris 14e
+          </p>
+          <p class="item-description" data-gaq='{"category":"LISTE LOCATION","action":"Consulter proximite Paris - 2km","label":"Resume Description"}'>
+           <strong>
+            Paris 15e (75015).
+           </strong>
+           Quartier Convention.
+
+Appartement 2 pièces, 41 m², ascenseur : 1er étage, clair sur grande cour. 
+Immeuble Pierre de taille et briques, rénové : code d'Entrée. Interphone. 
+
+Appartement rénové,...
+          </p>
+          <p class="item-transports">
+           Convention, Vaugirard (Adolphe Chérioux), Georges Brassens
+          </p>
+          <div class="clearfix">
+           <ul class="item-summary float-left">
+            <li>
+             Pièces
+             <strong>
+              2
+             </strong>
+            </li>
+            <li>
+             Chambre
+             <strong>
+              1
+             </strong>
+            </li>
+            <li>
+             Surface
+             <strong>
+              41
+              <small>
+               m
+               <sup>
+                2
+               </sup>
+              </small>
+             </strong>
+            </li>
+           </ul>
+           <div class="float-right">
+            <a class="btn btn-type-1 btn-details" href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-r416600759" onclick="ga('send','event','LISTE LOCATION','Consulter proximite Paris - 2km','Resume Details');" rel="nofollow">
+             Détails
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <p class="action-annonce hidden" data-annonce='{"id":"416600759"}'>
+        </p>
+       </div>
+      </div>
+      <img border="0" class="hidden" height="1" src="https://prof.estat.com/m/web/240040202756?action=V&amp;ptype=recherche&amp;pbrand=liste&amp;pref=416600759&amp;nb=1&amp;ca=0&amp;st=0&amp;sjs=0" width="1"/>
+      <div class="pagination align-center">
+       <ul>
+        <li>
+         <span class="active">
+          1
+         </span>
+        </li>
+        <li>
+         <a href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-2">
+          2
+         </a>
+        </li>
+        <li>
+         <a href="/annonce/location-immobilier-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-3">
+          3
+         </a>
+        </li>
+        <li>
+         <a href="/annonce/locations-immobilieres-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-4">
+          4
+         </a>
+        </li>
+        <li class="next">
+         <a href="/annonce/locations-paris-14e-g37781g37787-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2-2">
+          Suivante
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="box box-alerte-email">
+       <div class="box-body">
+        <div class="row no-margin-bottom">
+         <div class="col-2-3">
+          <p class="h2">
+           Vous n'avez pas trouvé
+           <br/>
+           <strong>
+            l'annonce que vous cherchez ?
+           </strong>
+           <small>
+            Recevez les
+            <strong>
+             nouvelles annonces
+            </strong>
+            par e-mail
+           </small>
+          </p>
+         </div>
+         <div class="col-1-3">
+          <a class="btn btn-type-5 btn-full-width dialog-box-handler cta-alerte" data-origine="4" href="#" onclick="ga('send','event','LISTE LOCATION','Acceder Creation Alerte','Bandeau cours recherche');" rel="nofollow">
+           Créer une alerte
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="box box-internal-links">
+       <div class="box-header">
+        Élargir la recherche
+       </div>
+       <div class="box-body">
+        <table class="no-margin-bottom">
+         <tr>
+          <td class="location">
+           <a href="/annonce/locations-paris-75-g439g37781-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2">
+            Location Paris, Paris 14e 2 pièces jusqu'à 1.250 € à partir de 40 m²
+           </a>
+          </td>
+          <tr>
+           <tr>
+            <td class="location">
+             <a href="/annonce/locations-ile-de-france-g471g37781-2-pieces-jusqu-a-1250-euros-a-partir-de-40-m2">
+              Location Île-de-France, Paris 14e 2 pièces jusqu'à 1.250 € à partir de 40 m²
+             </a>
+            </td>
+            <tr>
+            </tr>
+           </tr>
+          </tr>
+         </tr>
+        </table>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="sidebar w300 float-right">
+     <div class="pub" id="5407072">
+      <noscript>
+       <a href="https://secserv.adtech.de/adlink/3.0|1521|5407072|0|131|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;sub1=[subst];rdclick=;alias=" target="_blank">
+        <img alt="" height="100" src="https://secserv.adtech.de/adserv/3.0|1521|5407072|0|131|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;alias=" width="100"/>
+       </a>
+      </noscript>
+     </div>
+     <div class="box liens-promo">
+      <div class="box-header">
+       Services
+      </div>
+      <div class="box-body">
+       <div class="pub" id="5407071">
+        <noscript>
+         <a href="https://secserv.adtech.de/adlink/3.0|1521|5407071|0|2018|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;sub1=[subst];rdclick=;alias=" target="_blank">
+          <img alt="" height="100" src="https://secserv.adtech.de/adserv/3.0|1521|5407071|0|2018|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;alias=" width="100"/>
+         </a>
+        </noscript>
+       </div>
+       <div class="pub" id="5407069">
+        <noscript>
+         <a href="https://secserv.adtech.de/adlink/3.0|1521|5407069|0|2018|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;sub1=[subst];rdclick=;alias=" target="_blank">
+          <img alt="" height="100" src="https://secserv.adtech.de/adserv/3.0|1521|5407069|0|2018|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;alias=" width="100"/>
+         </a>
+        </noscript>
+       </div>
+      </div>
+     </div>
+     <div class="pub" id="5407070">
+      <noscript>
+       <a href="https://secserv.adtech.de/adlink/3.0|1521|5407070|0|529|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;sub1=[subst];rdclick=;alias=" target="_blank">
+        <img alt="" height="100" src="https://secserv.adtech.de/adserv/3.0|1521|5407070|0|529|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;alias=" width="100"/>
+       </a>
+      </noscript>
+     </div>
+     <div class="pub2" id="5672629">
+      <noscript>
+       <a href="https://secserv.adtech.de/adlink/3.0|1521|5672629|0|529|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;sub1=[subst];rdclick=;alias=" target="_blank">
+        <img alt="" height="100" src="https://secserv.adtech.de/adserv/3.0|1521|5672629|0|529|ADTECH;loc=100;target=_blank;kvproduit=location;kvsurface_min=40;kvsurface_max=N;kvnb_pieces=2;kvnb_chambres=N;kvprix_min=N;kvprix_max=1250;kvlocalisation=idf;kvdepartement=75;kvville=paris-14e,paris-20e;kvpage=resultat_location;alias=" width="100"/>
+       </a>
+      </noscript>
+     </div>
+    </div>
+   </div>
+  </section>
+  <form action="/json/alerte-add" class="hidden" id="recherche_formulaire_creation_alerte" method="post">
+   <input name="geo_objets_ids" type="hidden" value="37781,37787"/>
+   <input name="transport_objets_ids" type="hidden" value=""/>
+   <input name="produit" type="hidden" value="location"/>
+   <input name="nb_pieces[min]" type="hidden" value="2"/>
+   <input name="nb_pieces[max]" type="hidden" value="2"/>
+   <input name="nb_chambres[min]" type="hidden" value=""/>
+   <input name="prix[min]" type="hidden" value=""/>
+   <input name="prix[max]" type="hidden" value="1250"/>
+   <input name="surface[min]" type="hidden" value="40"/>
+   <input name="surface[max]" type="hidden" value=""/>
+   <input name="surface_terrain[min]" type="hidden" value=""/>
+   <input name="surface_terrain[max]" type="hidden" value=""/>
+   <input name="valide" type="hidden" value="1"/>
+   <input id="alerte_origine" name="origine" type="hidden" value="9"/>
+   <input id="nom_creation_alerte" name="nom_recherche" type="text">
+    <input name="alerte_email" type="hidden" value="immediat"/>
+    <input id="creation_alerte_email" name="creation-alerte-email" type="hidden" value=""/>
+   </input>
+  </form>
+  <div class="dialog-box-content alerte-email-form-box" data-actif="0" data-dialog-box='{"width":500}' data-gaq="" data-origine="" data-utilisateur="" id="dialog_alerte" title="Créez une alerte e-mail">
+   <div class="alert-box margin-bottom-16 hidden alerte-email-erreur" data-erreur="email-invalide">
+    Votre adresse email n'est pas valide.
+   </div>
+   <div class="alert-box margin-bottom-16 hidden alerte-email-erreur" data-erreur="max-annonce">
+    Il y a plus de 200 annonces correspondant à cette recherche
+    <br/>
+    Si vous créez une alerte e-mail, vous serez submergé d'e-mails. Nous vous conseillons d'affiner vos critères.
+   </div>
+   <div class="alert-box margin-bottom-16 hidden alerte-email-erreur" data-erreur="erreur-technique">
+    Un problème technique ne permet pas d'enregistrer votre demande. Merci d'essayer plus tard.
+   </div>
+   <div class="alert-box margin-bottom-16 hidden alerte-email-erreur" data-erreur="max-recherche">
+    Vous ne pouvez pas enregistrer plus de 10 alertes !
+   </div>
+   <div class="confirmation-email">
+    <p class="h2 align-center">
+     Afin d'enregistrer votre alerte merci de bien vouloir indiquer votre adresse email
+    </p>
+    <form action="/json/email-check" class="form-wrapper" method="post">
+     <div class="form-group">
+      <label for="email-creation-alerte">
+       Votre adresse e-mail :
+      </label>
+      <input id="email-creation-alerte" name="email" type="text">
+       <p class="error-message">
+       </p>
+      </input>
+     </div>
+     <div>
+      <img class="hidden loading-actif" height="31" src="/images/ajax-loader-bg-f2f2f2.gif" style="margin: 15px 0 0 220px;" width="31"/>
+     </div>
+     <div class="align-center">
+      <input class="btn btn-type-5 btn-valider-email" type="submit" value="Valider">
+       <a class="btn btn-type-5 btn-fermer-dialog">
+        Fermer
+       </a>
+      </input>
+     </div>
+    </form>
+   </div>
+   <div class="hidden confirmation-alerte">
+    <p class="h2 align-center">
+     Votre alerte a bien été enregistrée !
+    </p>
+    <div class="align-center">
+     <a class="btn btn-type-5 btn-fermer-dialog">
+      Fermer
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="dialog-box-content" data-dialog-box='{"width":500}' id="dialog-enregistrer-email" title="Ajoutez des annonces en favoris">
+   <form action="/json/email-check" class="form-wrapper" id="enregistrer-email-favoris" method="POST">
+    <div class="form-group">
+     <label for="email">
+      Indiquez votre adresse e-mail :
+     </label>
+     <input class="status-error" id="email" name="email" type="text">
+      <p class="error-message">
+      </p>
+     </input>
+    </div>
+    <p>
+     Toutes les annonces que vous sélectionnerez vous seront envoyées par e-mail à la fin de votre visite.
+    </p>
+    <p class="align-right">
+     <input class="btn btn-type-2 favoris-enregistrer" type="submit" value="Valider">
+     </input>
+    </p>
+   </form>
+  </div>
+  <hr class="hr-invisible"/>
+  <section class="share-footer-box">
+   <div class="wrapper align-center">
+    <span class="h2">
+     Suivez toute l'actualité de
+     <strong>
+      PAP.fr
+     </strong>
+     sur :
+    </span>
+    <a href="https://www.facebook.com/pap.fr" onclick="ga('send','event','FOOTER','Acceder Facebook','Menu');" target="_blank">
+     <img alt="Facebook" src="/images/btn-social-circle-facebook.png">
+     </img>
+    </a>
+    <a href="https://twitter.com/pap_fr" onclick="ga('send','event','FOOTER','Acceder Twitter','Menu');" target="_blank">
+     <img alt="Twitter" src="/images/btn-social-circle-twitter.png"/>
+    </a>
+    <a href="https://plus.google.com/+papfr" onclick="ga('send','event','FOOTER','Acceder Google Plus','Menu');" target="_blank">
+     <img alt="Google +" src="/images/btn-social-circle-googleplus.png"/>
+    </a>
+    <a href="https://itunes.apple.com/fr/app/id405041010?mt=8" target="_blank">
+     <img alt="Disponible sur App Store" src="/images/btn-appstore.png"/>
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=fr.pap" target="_blank">
+     <img alt="Disponible sur Google Play" src="/images/btn-playstore.png"/>
+    </a>
+   </div>
+  </section>
+  <section class="footer">
+   <div class="wrapper">
+    <ul class="align-center">
+     <li>
+      <a href="/plan-du-site">
+       Plan du site
+      </a>
+     </li>
+     <li>
+      <a href="/groupe/notre-philosophie">
+       Qui sommes-nous ?
+      </a>
+     </li>
+     <li>
+      <a href="/groupe/recrutement">
+       Recrutement
+      </a>
+     </li>
+     <li>
+      <a href="/groupe/temoignages">
+       Témoignages clients
+      </a>
+     </li>
+     <li>
+      <a href="/groupe/nous-contacter">
+       Nous contacter
+      </a>
+     </li>
+     <li>
+      <a href="/groupe/cgv">
+       CGV
+      </a>
+     </li>
+     <li>
+      <a href="/groupe/affiliation">
+       Affiliation
+      </a>
+     </li>
+    </ul>
+    <p class="align-center" itemscope="" itemtype="http://data-vocabulary.org/Review-aggregate">
+     <span itemprop="itemreviewed">
+      PAP.fr
+     </span>
+     est noté
+     <img itemprop="photo" src="/images/logo-pap-127x70.png" style="display:none;"/>
+     <span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating">
+      <span itemprop="average">
+       9
+      </span>
+      /
+      <span itemprop="best">
+       10
+      </span>
+     </span>
+     selon
+     <span itemprop="votes">
+      1167
+     </span>
+     avis clients
+     <span itemprop="reviewer">
+      <a href="https://fr.trustpilot.com/review/www.pap.fr" rel="nofollow" target="_blank">
+       Trustpilot
+      </a>
+     </span>
+    </p>
+    <p class="align-center">
+     <a href="/groupe/mentions-legales">
+      Mentions légales
+     </a>
+     -
+     <a href="/groupe/donnees-personnelles">
+      Protection des données personnelles
+     </a>
+     -
+			Tous droits réservés © De Particulier à Particulier - Réseau immobilier - 1996-2017
+     <br>
+      L'extraction, l'indexation et l'utilisation à des fins professionnelles ou commerciales de tout ou partie de la présente base de données sont interdites.
+			En particulier, toute création de lien(s) hypertexte(s) sur le site De Particulier à Particulier PAP.fr doit faire l'objet d'une autorisation préalable
+			et écrite de La société Neressis. Les techniques du "framing" et du "crawling" sans identification préalable de l'utilisateur sont expressément interdites.
+     </br>
+    </p>
+   </div>
+  </section>
+  <div class="cookie-banner">
+   <div class="wrapper">
+    <p>
+     En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de Cookies qui nous permettent 
+				notamment d'assurer le bon fonctionnement de nos services et de mesurer l'audience de notre site.
+     <a href="/groupe/cookies">
+      En savoir plus
+     </a>
+    </p>
+    <div class="btn btn-small">
+     <span class="icon icon-thin-close">
+     </span>
+    </div>
+   </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/jquery/1.8.3/jquery.min.js" type="text/javascript">
+  </script>
+  <script src="https://cdn.jsdelivr.net/jquery.ui/1.11.4/jquery-ui.min.js" type="text/javascript">
+  </script>
+  <script src="https://cdn.jsdelivr.net/leaflet/0.7.7/leaflet.js" type="text/javascript">
+  </script>
+  <script src="https://www.pap.fr/vendor/api-ajax-mappy-5.3.0-108/dist/L.Mappy.js" type="text/javascript">
+  </script>
+  <script src="https://cdn.jsdelivr.net/jquery.xml2json/1.2/jquery.xml2json.js" type="text/javascript">
+  </script>
+  <script src="https://cdn.jsdelivr.net/jquery.multiselect/1.13/jquery.multiselect.min.js" type="text/javascript">
+  </script>
+  <script src="https://cdn.jsdelivr.net/jquery.tooltipster/3.3.0/js/jquery.tooltipster.min.js" type="text/javascript">
+  </script>
+  <script src="https://cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.min.js" type="text/javascript">
+  </script>
+  <script src="https://cdn.jsdelivr.net/jquery.placeholder/2.3.1/jquery.placeholder.min.js" type="text/javascript">
+  </script>
+  <script src="https://cdn.jsdelivr.net/jquery.imgliquid/0.9.944/imgLiquid-min.js" type="text/javascript">
+  </script>
+  <script src="https://www.pap.fr/vendor/js-cookie-master/src/js.cookie.js" type="text/javascript">
+  </script>
+  <script src="https://www.pap.fr/vendor/jquery-dropotron-1.4.3-20170210/jquery.dropotron.js" type="text/javascript">
+  </script>
+  <script src="https://www.pap.fr/vendor/jquery-tokeninput-1.6.2-20150104144600/src/jquery.tokeninput.js" type="text/javascript">
+  </script>
+  <script src="https://www.pap.fr/vendor/showcase.v.1.1.3/jquery.aw-showcase.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.pap.fr/vendor/jquery-iframe-autoheight-1.2.5/iframeheight.min.js" type="text/javascript">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.0/owl.carousel.min.js" type="text/javascript">
+  </script>
+  <script src="https://try.abtasty.com/bbe49db950478d2715b9fe0982c06bd1.js" type="text/javascript">
+  </script>
+  <script src="https://aka-cdn.adtech.de/dt/common/DAC.js" type="text/javascript">
+  </script>
+  <script src="/vendor/donuts/js/script.1493738530.js" type="text/javascript">
+  </script>
+  <script src="/js/pap.1496240564.js" type="text/javascript">
+  </script>
+  <!-- eStat -->
+  <script type="text/javascript">
+   var cnf = {"serial":240040202756,"measure":"page","levels":{"level_1":"annonce","level_2":"location","level_3":"liste","level_4":"412902311-416700044-416700047-416400618"}};
+(function(a){var b=document.createElement("script");b.type="text/javascript";b.async=true;b.src="https://prof.estat.com/js/mu-5.2.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);if (b.addEventListener) {b.addEventListener("load", function(){d();},false);}else{b.onreadystatechange=function(){if (b.readyState in {complete: 1, loaded: 1}){d();}};}d=function(){var e=new eStatTag(a);e.post();};})(cnf);
+  </script>
+  <noscript>
+   <img border="0" height="1" src="https://prof.estat.com/m/web/240040202756?c=annonce&amp;p=location&amp;l3=liste&amp;l4=412902311-416700044-416700047-416400618&amp;st=0&amp;sjs=0" width="1"/>
+  </noscript>
+  <!-- // eStat -->
+  <script>
+   var ADTECH = ADTECH || {config:{placements:{}},loadAd:function(){}};
+			ADTECH.config.page = {
+				protocol: 'https',
+				server: 'secserv.adtech.de',
+				network: '1521',
+				pageid: '682168',
+				params: {
+					loc: '100'
+				}
+			};
+		
+					ADTECH.config.placements[5407071] = {
+						sizeid: 2018,
+						params: {
+							kvproduit: 'location',kvsurface_min: '40',kvsurface_max: 'N',kvnb_pieces: '2',kvnb_chambres: 'N',kvprix_min: 'N',kvprix_max: '1250',kvlocalisation: 'idf',kvdepartement: '75',kvville: 'paris-14e,paris-20e',kvpage: 'resultat_location',
+							alias: '',
+							target: '_blank'
+						}
+					};
+					ADTECH.loadAd(5407071);
+				
+					ADTECH.config.placements[5407069] = {
+						sizeid: 2018,
+						params: {
+							kvproduit: 'location',kvsurface_min: '40',kvsurface_max: 'N',kvnb_pieces: '2',kvnb_chambres: 'N',kvprix_min: 'N',kvprix_max: '1250',kvlocalisation: 'idf',kvdepartement: '75',kvville: 'paris-14e,paris-20e',kvpage: 'resultat_location',
+							alias: '',
+							target: '_blank'
+						}
+					};
+					ADTECH.loadAd(5407069);
+				
+					ADTECH.config.placements[5407070] = {
+						sizeid: 529,
+						params: {
+							kvproduit: 'location',kvsurface_min: '40',kvsurface_max: 'N',kvnb_pieces: '2',kvnb_chambres: 'N',kvprix_min: 'N',kvprix_max: '1250',kvlocalisation: 'idf',kvdepartement: '75',kvville: 'paris-14e,paris-20e',kvpage: 'resultat_location',
+							alias: '',
+							target: '_blank'
+						}
+					};
+					ADTECH.loadAd(5407070);
+				
+					ADTECH.config.placements[5407072] = {
+						sizeid: 131,
+						params: {
+							kvproduit: 'location',kvsurface_min: '40',kvsurface_max: 'N',kvnb_pieces: '2',kvnb_chambres: 'N',kvprix_min: 'N',kvprix_max: '1250',kvlocalisation: 'idf',kvdepartement: '75',kvville: 'paris-14e,paris-20e',kvpage: 'resultat_location',
+							alias: '',
+							target: '_blank'
+						}
+					};
+					ADTECH.loadAd(5407072);
+				
+					ADTECH.config.placements[5083856] = {
+						sizeid: 6133,
+						params: {
+							kvproduit: 'location',kvsurface_min: '40',kvsurface_max: 'N',kvnb_pieces: '2',kvnb_chambres: 'N',kvprix_min: 'N',kvprix_max: '1250',kvlocalisation: 'idf',kvdepartement: '75',kvville: 'paris-14e,paris-20e',kvpage: 'resultat_location',
+							alias: '',
+							target: '_blank'
+						}
+					};
+					ADTECH.loadAd(5083856);
+				
+					ADTECH.config.placements[5083855] = {
+						sizeid: 6133,
+						params: {
+							kvproduit: 'location',kvsurface_min: '40',kvsurface_max: 'N',kvnb_pieces: '2',kvnb_chambres: 'N',kvprix_min: 'N',kvprix_max: '1250',kvlocalisation: 'idf',kvdepartement: '75',kvville: 'paris-14e,paris-20e',kvpage: 'resultat_location',
+							alias: '',
+							target: '_blank'
+						}
+					};
+					ADTECH.loadAd(5083855);
+				
+					ADTECH.config.placements[5672629] = {
+						sizeid: 529,
+						params: {
+							kvproduit: 'location',kvsurface_min: '40',kvsurface_max: 'N',kvnb_pieces: '2',kvnb_chambres: 'N',kvprix_min: 'N',kvprix_max: '1250',kvlocalisation: 'idf',kvdepartement: '75',kvville: 'paris-14e,paris-20e',kvpage: 'resultat_location',
+							alias: '',
+							target: '_blank'
+						}
+					};
+					ADTECH.loadAd(5672629);
+  </script>
  </body>
 </html>

@@ -14,10 +14,12 @@ def parse_page(url, annonces):
     soup_pap_html = BeautifulSoup(pap_html.text,'html.parser')
     
     #PARSING DE LA PAGE
-    annonces[0].extend(str(re.search(r'\w{3}\/\w{1,4}', s.get_text()).group()) for s in soup_pap_html.body.find_all("p",attrs={'class': "date"}))		#REFERENCE DES ANNONCES
-    annonces[1].extend(int(re.sub(r'[^\w]', ' ', s.get_text().replace(u'\xa0', u' ')).replace(" ","")) for s in soup_pap_html.body.find_all("span",attrs={'class': "price"}))	#PRIX DES ANNONCES
-    annonces[2].extend([int(s.find_all("li")[-1].find('strong').contents[0]) for s in soup_pap_html.body.find_all("ul",attrs={'class': 'item-summary'})])		#SURFACE DES ANNONCES
+    infos = []
+    infos.append(str(re.search(r'\w{3}\/\w{1,4}', s.get_text()).group()) for s in soup_pap_html.body.find_all("p",attrs={'class': "date"}))		#REFERENCE DES ANNONCES
+    infos.append(int(re.sub(r'[^\w]', ' ', s.get_text().replace(u'\xa0', u' ')).replace(" ","")) for s in soup_pap_html.body.find_all("span",attrs={'class': "price"}))	#PRIX DES ANNONCES
+    infos.append([int(s.find_all("li")[-1].find('strong').contents[0]) for s in soup_pap_html.body.find_all("ul",attrs={'class': 'item-summary'})])		#SURFACE DES ANNONCES
     
+    annonces.append(infos)
     return annonces
 
 def main():
@@ -42,7 +44,7 @@ def main():
     for i in range(1, nbr_pages +1):
         if i == 1:
             print("Processing..." + url)
-            annonces_tot = parse_page(url, [[],[],[]])
+            annonces_tot = parse_page(url, [])
         else:
             url2 = url + "-" + str(i) 
             print("Processing..." + url2)

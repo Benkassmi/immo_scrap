@@ -36,7 +36,7 @@ def parse_page(url, annonces):
             infos = []
             id_annonce = json_data["products"][i][u'idannonce'].encode('utf8')
             
-            infos.append(id_annonce)		#REFERENCE DES ANNONCES
+            infos.append("sl_" + id_annonce)		#REFERENCE DES ANNONCES
             infos.append(json_data["products"][i][u'prix'].encode('utf8'))	#PRIX DES ANNONCES
             infos.append(json_data["products"][i][u'surface'].encode('utf8'))		#SURFACE DES ANNONCES
             
@@ -51,6 +51,17 @@ def parse_page(url, annonces):
             #CONTACT
             contact = article.find(lambda tag: tag.name == 'a' and tag.has_attr('data-phone'))['data-phone'].encode('utf8')
             infos.append(contact)
+            
+            #PHOTOS URL
+            print article
+            carousel = article.find('a', {'class' :'listing_link'})
+            photos_url = []
+            for photo in carousel.find_all('img'):
+                try:
+                    photos_url.append(photo.get('src')).encode('utf8')
+                except:
+                    photos_url.append(photo.get('data-lazyload')).encode('utf8')
+            infos.append(photos_url)
             
             annonces.append(infos)
         except KeyError:
